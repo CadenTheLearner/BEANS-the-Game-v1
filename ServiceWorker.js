@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-RollaBall-0.1.0";
 const contentToCache = [
-    "Build/BEANS the Game v1.14.loader.js",
-    "Build/BEANS the Game v1.14.framework.js",
-    "Build/BEANS the Game v1.14.data",
-    "Build/BEANS the Game v1.14.wasm",
+    "Build/BEANS the Game v1.24.loader.js",
+    "Build/BEANS the Game v1.24.framework.js",
+    "Build/BEANS the Game v1.24.data",
+    "Build/BEANS the Game v1.24.wasm",
     "TemplateData/style.css"
 
 ];
